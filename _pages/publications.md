@@ -17,9 +17,10 @@ See work description [here](/publications/encirclement2025/).
 Below are the publication subpages in this section. This list is generated automatically from pages whose URL contains "/publications/" (excluding this index page).
 
 <ul>
-{% assign pubs = site.pages | where_exp: "p", "p.url contains '/publications/' and p.url != '/publications/'" %}
-{% for p in pubs %}
-	<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+{% for p in site.pages %}
+	{% if p.url contains '/publications/' and p.url != '/publications/' %}
+		<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+	{% endif %}
 {% endfor %}
 </ul>
 
