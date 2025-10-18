@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fandi Gou"
-description              : "Fandi Gou's personal website"
+title                    : "Fandi Gou (苟凡棣)"
+description              : "PHD student at SJTU. Focusing on solving multi-agent tasks with DRL or other methods."
 repository               : "finleygou/finleygou.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fandi Gou-1"
+  name             : "Fandi Gou"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
@@ -46,7 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-6149-3382"
-  pinterest        : "basketball, skiing"
+  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
