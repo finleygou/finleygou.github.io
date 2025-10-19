@@ -11,12 +11,12 @@ author_profile: true
 <!-- Published in IEEE TNNLS, 2025. Details and notes about the paper, code links, videos, and supplementary material can go here. -->
 
 ## Abstract
-The problem of multiagent encirclement with multiobstacle
-collision avoidance (EMOCA) has been challenging
+The problem of **multiagent encirclement** with multiobstacle
+**collision avoidance** (EMOCA) has been challenging
 since it is difficult to balance the trade-off between surrounding a
 mobile target and avoiding obstacles simultaneously. To address
-the EMOCA problem, we proposed a novel policy-guided reinforcement
-learning (RL) method, namely, multiregulator-assisted
+the EMOCA problem, we proposed a novel **policy-guided reinforcement
+learning (RL)** method, namely, multiregulator-assisted
 RL for encirclement control (MRA-RLEC) which leverages the
 jump-start learning and curriculum learning (CL) mechanism
 to enhance training efficiency. MRA-RLEC divides the complex
@@ -89,6 +89,15 @@ Besides, the model is capable of completing the encirclement task under differen
   </figure>
 
 </div>
+
+The curriculum learning process is regulated by multiple regulators, which is illustrated below. Especially for the guide policy regulator, it gradually decreases the execution steps of the guide policy during training, allowing the learned policy to take over eventually, and this is the **core innovation** of this work.
+<div class="gif-pair">
+  <figure>
+    <img src="{{ '/assets/publication/encirclement2025/Illustration of regulators.png' | relative_url }}" alt="encirclement gif 3" />
+    <figcaption>Illustration of curriculum learning regulators</figcaption>
+  </figure>
+</div>
+
 
 The training reward and environmental settings are illustrated below:
 

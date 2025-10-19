@@ -26,10 +26,10 @@ Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎙 Represented the CAA-SJTU Student Branch at the CAC and delivered a presentation.
+- *2025.10*: &nbsp;🎙 Represented the CAA-SJTU Student Branch at the ***CAC*** and delivered a presentation.
 - *2025.09*: &nbsp;🎉 Received the National Scholarship for Graduate Students!
-- *2025.06*: &nbsp;🎉 Our paper accepted by *IROS* 2025! 
-- *2025.04*: &nbsp;🎉 Our paper accepted by *TNNLS*! 
+- *2025.06*: &nbsp;🎉 Our paper accepted by ***IROS*** 2025! 
+- *2025.04*: &nbsp;🎉 Our paper accepted by ***TNNLS***! 
 - *2024.11*: &nbsp;🎉 Won the **First Prize** at the 19th “Challenge Cup” National Academic Science and Technology Works Competition!
 - *2023.12*: &nbsp;🎙 Addressed the assembly at the 65th Anniversary Celebration of the Department of Automation
 - *2023.06*: &nbsp;🎓 Graduated from SJTU with outstanding graduate award!
