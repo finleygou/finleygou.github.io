@@ -6,18 +6,16 @@ excerpt: ""
 author_profile: true
 ---
 # 🏆 Honors and Awards
-
+TODO
 ## Doctoral (Ph.D.) Awards
 
 
 ## Undergraduate Awards
 
-1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, *Guide Policy Assisted Reinforcement Learning for Multi-agent Tasks
+<!-- 1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, *Guide Policy Assisted Reinforcement Learning for Multi-agent Tasks
 under Restricted Communication*. Submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Apr 2025, under review.
-	- See a brief work description [here](/publications/gpa-marl2025/).
+	- See a brief work description [here](/publications/gpa-marl2025/). -->
 
-
-## In Preparation
 
 
 <!-- 
