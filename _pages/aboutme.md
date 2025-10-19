@@ -12,8 +12,9 @@ redirect_from:
 
 Welcome to Finley's personal page!
 
-My name is Fandi Gou (苟凡棣), I was born in Chengdu, China, in March 2001. Currently I am a third-year PhD student at <a href='https://sais.sjtu.edu.cn/'> School of Automation and Intelligent Sensing </a>, Shanghai Jiao Tong University, major in Control Science and Engineering. I graduated as Shanghai Municipal Outstanding Graduate from Shanghai Jiao Tong University in 2023.06 with a B.E. degree from the <a href='https://automation.sjtu.edu.cn/'>Department of Automation </a>, <a href='https://www.seiee.sjtu.edu.cn/'> SEIEE school </a>. Prior to that, I graduated from Chengdu No.7 High School with honor.
+My name is Fandi Gou (苟凡棣), I was born in Chengdu, China, in 2001.03. Currently I am a third-year PhD student at <a href='https://sais.sjtu.edu.cn/'> School of Automation and Intelligent Sensing </a>, Shanghai Jiao Tong University, major in Control Science and Engineering. I graduated as Shanghai Municipal Outstanding Graduate from Shanghai Jiao Tong University in 2023.06 with a B.E. degree from the <a href='https://automation.sjtu.edu.cn/'>Department of Automation </a>, <a href='https://www.seiee.sjtu.edu.cn/'> SEIEE school </a>. Prior to that, I graduated from Chengdu No.7 High School with honor.
 
+Focusing on solving multi-agent tasks with DRL or other methods
 <!-- https://automation.sjtu.edu.cn/ -->
 <!-- [text](https://www.seiee.sjtu.edu.cn/) -->
 
@@ -55,5 +56,8 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# Wechat 
-- Finley-Gou3
+# Contact
+Contact me at: 
+- Finley-Gou3(Wechat)
+- finley-gou3@sjtu.edu.cn(e-mail)
+
