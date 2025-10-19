@@ -410,3 +410,50 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* GIF pair layout used by publication pages */
+.gif-pair {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  align-items: center;
+  margin: 1.5em 0;
+  flex-wrap: wrap;
+
+  img {
+    max-width: 48%;
+    height: auto;
+    display: block;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+  }
+
+  @include breakpoint($medium) {
+    img { max-width: 100%; }
+  }
+}
+
+/* captions for GIF figures inside the pair */
+.gif-pair figure {
+  margin: 0;
+  max-width: 48%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.gif-pair figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.95em;
+  color: $text-color;
+  width: 100%;
+}
+
+/* modifier: more compact images and wider gap */
+.gif-pair.gif-pair--compact {
+  gap: 2.5rem;
+}
+.gif-pair.gif-pair--compact img {
+  max-width: 42%;
+}

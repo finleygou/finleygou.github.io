@@ -2,3 +2,30 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<!-- Small helper: allow per-page control of .gif-pair sizing via data attributes
+		 Usage in markdown:
+		 <div class="gif-pair" data-img-width="360px" data-gap="2.5rem"> ... </div>
+		 or data-img-width="42%" data-gap="1.5rem"
+-->
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+		document.querySelectorAll('.gif-pair').forEach(function (container) {
+			var imgWidth = container.getAttribute('data-img-width');
+			var gap = container.getAttribute('data-gap');
+			if (gap) container.style.gap = gap;
+			if (imgWidth) {
+				// apply to direct img children (inside figure > img)
+				container.querySelectorAll('img').forEach(function (img) {
+					img.style.maxWidth = imgWidth;
+					img.style.width = 'auto';
+					img.style.height = 'auto';
+				});
+				// also apply to figure max-width to align caption width
+				container.querySelectorAll('figure').forEach(function (fig) {
+					fig.style.maxWidth = imgWidth;
+				});
+			}
+		});
+	});
+</script>
