@@ -9,9 +9,12 @@ author_profile: true
 TODO
 ## Basketball
 
+I play the shooting guard.
+A huuuuge fan of Steph Curry 30 and GSW.
 
 ## Skiing
 
+A group member in SJTU Skiing club. Double plate.
 
 
 <!-- 

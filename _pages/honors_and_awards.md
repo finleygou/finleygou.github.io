@@ -7,6 +7,8 @@ author_profile: true
 ---
 # 🏆 Honors and Awards
 TODO
+Please visit my home page~
+I have listed some of my most recognized honors.
 ## Doctoral (Ph.D.) Awards
 
 

@@ -8,6 +8,7 @@ author_profile: true
 # Researches
 
 TODO: Add research descriptions here with visualization.
+Including Coverage control, 3D TAD game, flocking control, and encirclement interception. Coming soon. 
 
 <!-- 1. Coverage .
 	- See brief work description [here](/publications/encirclement2025/). -->
