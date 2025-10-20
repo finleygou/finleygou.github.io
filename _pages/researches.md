@@ -7,10 +7,10 @@ author_profile: true
 ---
 # Researches
 
-## Accepted
+TODO: Add research descriptions here with visualization.
 
-1. Coverage.
-	- See brief work description [here](/publications/encirclement2025/).
+<!-- 1. Coverage .
+	- See brief work description [here](/publications/encirclement2025/). -->
 
 
 

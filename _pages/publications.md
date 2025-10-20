@@ -27,7 +27,7 @@ Cooperation*. Submitted to Neural Networks (NN), Jun 2025, under review.
 	- See a brief work description [here](/publications/nn2025/).
 
 1. **Fandi Gou**, Hengyuan Zhao, Chen Yan and Yunze Cai, *Graph-based Formation Control with Collision Avoidance via Policy-Guided Reinforcement Learning*. Submitted to IEEE Robotics and Automation Letters (RA-L), Sep 2025, under review.
-	- See a brief work description [here](/publications/ra-l2025/).
+	- See a brief work description [here](/publications/ral2025/).
 
 ## In Preparation
 
