@@ -7,23 +7,15 @@ author_profile: true
 ---
 # Researches
 
-TODO: Add research descriptions here with visualization.
-Including Coverage control, 3D TAD game, flocking control, and encirclement interception. Coming soon. 
+<!-- TODO: Add research descriptions here with visualization. -->
+<!-- Including Coverage control, 3D TAD game, flocking control, and encirclement interception. Coming soon.  -->
 
-<!-- 1. Coverage .
-	- See brief work description [here](/publications/encirclement2025/). -->
+1. Coordinated Swarm Interception Method Based on Area Coverage and Adaptive Dynamic Programming, 2022. See brief work description [here](/researches/coverage_circle/).
 
+2. Cooperative detection of a mobile area using multiple directional sensors, 2024. See brief work description [here](/researches/coverage_detect/).
 
+3. Coverage based encirclement interception method via deep reinforcement learning, 2024. See brief work description [here](/researches/encirclement-guidance/).
 
-<!-- 
-## Subpages
+4. Three-dimensional TAD game using deep reinforcement learning, 2025. See brief work description [here](/researches/3D-TAD/).
 
-Below are the publication subpages in this section. This list is generated automatically from pages whose URL contains "/publications/" (excluding this index page).
-
-<ul>
-{% for p in site.pages %}
-	{% if p.url contains '/publications/' and p.url != '/publications/' %}
-		<li><a href="{{ p.url }}">{{ p.title }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul> -->
+5. Swarm flocking control with collision avoidance via spatial-temporal GNN based deep reinforcement learning, 2025. See brief work description [here](/researches/flocking2025/).
