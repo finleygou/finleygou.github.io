@@ -26,12 +26,12 @@ Here I have listed some of my most recognized honors.
   </figure>
 </div>
 
-<div class="gif-pair" data-img-width="720px">
+<!-- <div class="gif-pair" data-img-width="720px">
   <figure>
 	<img src="{{ '/assets/honors_awards/undergraduate2.png' | relative_url }}" alt="fig2" />
 	<figcaption>Some Awards in Undergraduate Study</figcaption>
   </figure>
-</div>
+</div> -->
 
 <div class="gif-pair" data-img-width="720px">
   <figure>

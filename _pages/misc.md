@@ -5,10 +5,10 @@ title: "Hobbies"
 excerpt: ""
 author_profile: true
 ---
-# Hobbies
-- Basketball: I play the shooting guard. A huuuuge fan of Steph Curry 30 and GSW.
-- Skiing: A group member in SJTU Skiing club. Double plate.
-- Mixing drinks: Enjoy creating and tasting new cocktails. You can get some research ideas when slightly drunk.
+# Hobbies 
+- 🏀 Basketball: I play the shooting guard. A huuuuge fan of Steph Curry 30 and GSW.
+- 🎿 Skiing: A group member in SJTU Skiing club. Double plate.
+- 🍸 Mixing drinks: Enjoy creating and tasting new cocktails. You can get some research ideas when slightly drunk.
 
 <style>
 .photo-gallery {
@@ -126,11 +126,11 @@ author_profile: true
 
 <div class="gallery-column">
     <div class="gallery-item">
-      <img src="/assets/misc/skiiing1.jpg" alt="Skiing">
+      <img src="/assets/misc/skiing1.jpg" alt="Skiing">
       <div class="caption">Skiing</div>
     </div>
     <div class="gallery-item">
-      <img src="/assets/misc/skiiing2.jpg" alt="Skiing">
+      <img src="/assets/misc/skiing3.jpg" alt="Skiing">
       <div class="caption">Skiing</div>
     </div>
   </div>
