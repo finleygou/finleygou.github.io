@@ -7,10 +7,11 @@ author_profile: true
 ---
 
 # Leadership
-TODO
 
 ## **Chair**, Student Branch of CAA-SJTU (2024, 2025)
 CAA is in short for *Chinese Association of Automation*, and it is the premier national organization for automation professionals in China. I Led the Shanghai Jiao Tong University's official student branch of CAA.
+
+
 
 ## Outstanding Student Cadre & Outstanding Leadership Award
 A dual recognition of exemplary leadership and top-tier academic achievement, recognized by SJTU.
