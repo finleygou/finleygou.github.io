@@ -8,7 +8,7 @@ author_profile: true
 # Hobbies 
 - 🏀 Basketball: I play the shooting guard. A huuuuge fan of Steph Curry 30 and GSW.
 - 🎿 Skiing: A group member in SJTU Skiing club. Double plate.
-- 🍸 Mixing drinks: Enjoy creating and tasting new cocktails. You can get some research ideas when slightly drunk.
+- 🏔️ Mountain Climbing: Enjoy interaction with nature and the process of reaching new heights.
 
 <style>
 .photo-gallery {
@@ -139,12 +139,12 @@ author_profile: true
 
 <div class="gallery-column">
     <div class="gallery-item">
-      <img src="/assets/misc/drink1.jpg" alt="Mixing drinks">
-      <div class="caption">Mixing drinks</div>
+      <img src="/assets/misc/climb2.jpg" alt="Mixing drinks">
+      <div class="caption">Foot Print</div>
     </div>
     <div class="gallery-item">
-      <img src="/assets/misc/drink2.jpg" alt="Mixing drinks">
-      <div class="caption">Mixing drinks</div>
+      <img src="/assets/misc/climb1.jpg" alt="Mixing drinks">
+      <div class="caption">Mountain Climbing</div>
     </div>
   </div>
 </div>
