@@ -19,7 +19,7 @@ Control in Multiobstacle Environment](https://ieeexplore.ieee.org/document/11006
 ## Under Review
 
 1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, *Guide Policy Assisted Reinforcement Learning for Multi-agent Tasks
-under Restricted Communication*. Submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Apr 2025, **under review**.
+under Restricted Communication*. Submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Apr 2025, **major revision**.
 	- See a brief work description [here](/publications/gpa-marl2025/).
 
 1. **Fandi Gou**, Haikuo Du and Yunze Cai, *A Graph-Based Safe Reinforcement Learning Method for Multi-agent
