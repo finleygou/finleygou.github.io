@@ -8,7 +8,7 @@ author_profile: true
 
 # Leadership
 
-## ** Shanghai Jiao Tong University Annual Person of the Year (Nominee)** (2025)
+## **Shanghai Jiao Tong University Annual Person of the Year (Nominee)** (2025)
 
 Nominated as the Shanghai Jiao Tong University Annual Person of the Year award in 2025, recognizing outstanding contributions to the university community. The unique candidate from the School of Automation and Intelligent Sensing this year.
 
@@ -17,12 +17,10 @@ Nominated as the Shanghai Jiao Tong University Annual Person of the Year award i
 	<img src="{{ '/assets/leadership/MOY1.jpg' | relative_url }}" alt="117" />
 	<figcaption>Finalist Presentation</figcaption>
   </figure>
-
   <figure>
 	<img src="{{ '/assets/leadership/MOY2.jpg' | relative_url }}" alt="118" />
 	<figcaption>Annual Person of the Year Election</figcaption>
   </figure>
-
 </div>
 
 ## **Chair**, Student Branch of CAA-SJTU (2024, 2025)
@@ -33,12 +31,10 @@ CAA is in short for *Chinese Association of Automation*, and it is the premier n
 	<img src="{{ '/assets/leadership/CAA1.JPG' | relative_url }}" alt="115" />
 	<figcaption>Chaired the CAA-SJTU for the election of the new leadership</figcaption>
   </figure>
-
   <figure>
 	<img src="{{ '/assets/leadership/CAA4.JPG' | relative_url }}" alt="116" />
 	<figcaption>Group photo of the new leadership</figcaption>
   </figure>
-
 </div>
 
 <div class="gif-pair" data-img-width="420px" data-gap="3rem">
@@ -46,11 +42,11 @@ CAA is in short for *Chinese Association of Automation*, and it is the premier n
 	<img src="{{ '/assets/leadership/CAA2.jpg' | relative_url }}" alt="115" />
 	<figcaption>Organized the basketball activity with CAA members</figcaption>
   </figure>
-
   <figure>
 	<img src="{{ '/assets/leadership/CAA3.jpg' | relative_url }}" alt="116" />
 	<figcaption>Delivered a speech at the CAC event</figcaption>
   </figure>
+</div>
 
 ## Outstanding Student Cadre and Outstanding Leadership Award
 
@@ -61,7 +57,6 @@ A dual recognition of exemplary leadership and top-tier academic achievement, re
 	<img src="{{ '/assets/leadership/student2.JPG' | relative_url }}" alt="115" />
 	<figcaption>Undergraduate graduation photo</figcaption>
   </figure>
-
   <figure>
 	<img src="{{ '/assets/leadership/student1.jpg' | relative_url }}" alt="116" />
 	<figcaption>  Addressed the assembly at the 65th anniversary celebration of the Department of Automation </figcaption>
