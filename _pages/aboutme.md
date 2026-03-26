@@ -34,7 +34,8 @@ Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by 
 > WeChat: Finley-Gou3
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉 Awarded as the  ***Shanghai Jiao Tong University Annual Person of the Year*** (nominee)!
+- *2026.02*: &nbsp;🎉 Our paper accepted by ***Neural Networks(NN)***! 
+- *2025.12*: &nbsp;🎉 Awarded as the ***Shanghai Jiao Tong University Annual Person of the Year*** (nominee)!
 - *2025.10*: &nbsp;🎙 Represented the CAA-SJTU Student Branch at the ***CAC*** and delivered a presentation.
 - *2025.09*: &nbsp;🎉 Received the National Scholarship for Graduate Students!
 - *2025.06*: &nbsp;🎉 Our paper accepted by ***IROS*** 2025! 
