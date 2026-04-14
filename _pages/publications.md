@@ -20,19 +20,19 @@ Control in Multiobstacle Environment](https://ieeexplore.ieee.org/document/11006
 Cooperation](https://www.sciencedirect.com/science/article/pii/S0893608026001553)*, Neural Networks (NN), vol. 199, p. 108693, Feb 2026.
 	- See a brief work description [here](/publications/nn2025/).
 
+1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, * Primal-Dual based Safe Reinforcement Learning for Multi-Agent Navigation with Graph Information Aggregation*. Submitted to International Federation of Automatic Control World Congress 2026 (IFAC), Apr 2026.
+	- See a brief work description [here](/publications/ifac2026/).
+
 ## Under Review
 
 1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, *Guide Policy Assisted Reinforcement Learning for Multi-agent Tasks
 under Restricted Communication*. Submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Apr 2025, **major revision**.
 	- See a brief work description [here](/publications/gpa-marl2025/).
 
-1. **Fandi Gou**, Hengyuan Zhao, Chen Yan and Yunze Cai, *Graph-based Formation Control with Collision Avoidance via Policy-Guided Reinforcement Learning*. Submitted to Neurocomputing, Jan 2026, **under review**.
+1. **Fandi Gou**, Hengyuan Zhao, Chen Yan and Yunze Cai, *Graph-based Formation Control with Collision Avoidance via Policy-Guided Reinforcement Learning*. Submitted to Neurocomputing, Jan 2026, **major revision**.
 	- See a brief work description [here](/publications/ral2025/).
 
-1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, * Primal-Dual based Safe Reinforcement Learning for Multi-Agent Navigation with Graph Information Aggregation*. Submitted to International Federation of Automatic Control World Congress 2026 (IFAC), Nov 2025.
-	- See a brief work description [here](/publications/ifac2026/).
-
-1. Hao Zhang, **Fandi Gou**, Haowen Wu, Hengyuan Zhao and Yunze Cai, *Solving Three-Dimensional Target Attacker Defender Game via Deep Reinforcement Learning*. Submitted to Chinese Journal of Aeronautics, Mar 2026, **under review**.
+1. Hao Zhang, **Fandi Gou**, Haowen Wu, Hengyuan Zhao and Yunze Cai, *Solving Three-Dimensional Target Attacker Defender Game via Deep Reinforcement Learning*. Submitted to Chinese Journal of Aeronautics, Mar 2026, **major revision**.
 
 ## In Preparation
 
