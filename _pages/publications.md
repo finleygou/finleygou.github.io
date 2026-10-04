@@ -9,30 +9,33 @@ author_profile: true
 
 ## Accepted
 
-1. **Fandi Gou**, Haikuo Du, Chenyu Zhao and Yunze Cai, *[A Policy-Guided Reinforcement Learning Method for Encirclement
-Control in Multiobstacle Environment](https://ieeexplore.ieee.org/document/11006133)*, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol. 36, no. 9, pp. 17034-17046, May 2025.
-	- See brief work description [here](/publications/encirclement2025/).
+1. **Fandi Gou**, Zhengyu Guo, Hengyuan Zhao and Yunze Cai, *[Communication Limited Formation Control with Collision Avoidance via Knowledge Guided Reinforcement Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231226025774)*. Neurocomputing, p. 135179, Sep 2026.
+	- See a brief work description [here](/publications/ral2025/).
 
-1. **Fandi Gou**, Chenyu Zhao, Haikuo Du and Yunze Cai, *[Modeling Deception in Multi-Robot Target-Attacker-Defender Game via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11246010)*, in Proc IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Jun 2025.
-	- See brief work description [here](/publications/deception2025/).
+1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, *Primal-Dual based Safe Reinforcement Learning for Multi-Agent Navigation with Graph Information Aggregation*. Submitted to International Federation of Automatic Control World Congress 2026 (IFAC), Apr 2026.
+	- See a brief work description [here](/publications/ifac2026/).
 
 1. **Fandi Gou**, Haikuo Du and Yunze Cai, *[A Graph-Based Safe Reinforcement Learning Method for Multi-agent
 Cooperation](https://www.sciencedirect.com/science/article/pii/S0893608026001553)*, Neural Networks (NN), vol. 199, p. 108693, Feb 2026.
 	- See a brief work description [here](/publications/nn2025/).
 
-1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, * Primal-Dual based Safe Reinforcement Learning for Multi-Agent Navigation with Graph Information Aggregation*. Submitted to International Federation of Automatic Control World Congress 2026 (IFAC), Apr 2026.
-	- See a brief work description [here](/publications/ifac2026/).
+1. **Fandi Gou**, Chenyu Zhao, Haikuo Du and Yunze Cai, *[Modeling Deception in Multi-Robot Target-Attacker-Defender Game via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11246010)*, in Proc IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Jun 2025.
+	- See brief work description [here](/publications/deception2025/).
+
+1. **Fandi Gou**, Haikuo Du, Chenyu Zhao and Yunze Cai, *[A Policy-Guided Reinforcement Learning Method for Encirclement
+Control in Multiobstacle Environment](https://ieeexplore.ieee.org/document/11006133)*, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol. 36, no. 9, pp. 17034-17046, May 2025.
+	- See brief work description [here](/publications/encirclement2025/).
+
 
 ## Under Review
 
 1. **Fandi Gou**, Chenyu Zhao, Hengyuan Zhao and Yunze Cai, *Guide Policy Assisted Reinforcement Learning for Multi-agent Tasks
-under Restricted Communication*. Submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Apr 2025, **major revision**.
+under Restricted Communication*. Submitted to Engineering Application of Artificial Intelligence (EAAI), Jun 2026, **under review**.
 	- See a brief work description [here](/publications/gpa-marl2025/).
 
-1. **Fandi Gou**, Hengyuan Zhao, Chen Yan and Yunze Cai, *Graph-based Formation Control with Collision Avoidance via Policy-Guided Reinforcement Learning*. Submitted to Neurocomputing, Jan 2026, **major revision**.
-	- See a brief work description [here](/publications/ral2025/).
-
 1. Hao Zhang, **Fandi Gou**, Haowen Wu, Hengyuan Zhao and Yunze Cai, *Solving Three-Dimensional Target Attacker Defender Game via Deep Reinforcement Learning*. Submitted to Chinese Journal of Aeronautics, Mar 2026, **major revision**.
+
+1. Hengyuan Zhao, Yun Zhang, **Fandi Gou**, Lixiu Yao and Yunze Cai, *Online Incentive Strategy Learning for Two-Player Reverse Stackelberg Games via Persistent Inverse Reinforcement Learning*. Submitted to IEEE Transactions on Automation Science and Engineering, Aug 2026, **major revision**.
 
 ## In Preparation
 

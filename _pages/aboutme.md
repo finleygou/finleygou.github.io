@@ -12,28 +12,29 @@ redirect_from:
 
 # 🎓 About Me
 
-<!-- Welcome to Finley's personal page! -->
+Welcome to Finley's personal page!
 
-<!-- My name is Fandi Gou (苟凡棣), I was born in Sichuan Chengdu, China, in Mar 2001. Currently I am a third-year Ph.D. student at <a href='https://sais.sjtu.edu.cn/'> School of Automation and Intelligent Sensing</a>, Shanghai Jiao Tong University, major in Control Science and Engineering. I graduated as **Shanghai Municipal Outstanding Graduate** (top 5% of graduates) from Shanghai Jiao Tong University in Jun 2023 with a B.E. degree from the <a href='https://automation.sjtu.edu.cn/'>Department of Automation</a>, <a href='https://www.seiee.sjtu.edu.cn/'> SEIEE school</a>. Prior to that, I graduated from <a href='https://www.cdqz.net/html/cdqz/html/index.html'>Chengdu No.7 High School</a> with honor. -->
+My name is Fandi Gou (苟凡棣). I was born in Sichuan Chengdu, China, in Mar 2001. I am currently a Ph.D. student in Control Science and Engineering at the <a href='https://sais.sjtu.edu.cn/'>School of Automation and Intelligent Sensing</a>, Shanghai Jiao Tong University, and a visiting scholar in Computer Science at King's College London for the 2026–2027 academic year. I graduated as **Shanghai Municipal Outstanding Graduate** (top 5% of graduates) from Shanghai Jiao Tong University in Jun 2023 with a B.E. degree from the <a href='https://automation.sjtu.edu.cn/'>Department of Automation</a>, <a href='https://www.seiee.sjtu.edu.cn/'> SEIEE school</a>. Prior to that, I graduated from <a href='https://www.cdqz.net/html/cdqz/html/index.html'>Chengdu No.7 High School</a> with honor.
 
-Welcome to my personal page, I am a master student in East China Normal University, I have received the **National Scholarship twice** (in 2022 and 2025), a prestigious award granted to the top **0.2%** of students nationwide, and the SJTU A-Grade Merit Scholarship (2020). Beyond academics, my contributions to the student community have been acknowledged through the Outstanding Student Cadre and Merit Student honors. I was selected as the **Student Representative** to address the assembly at the 65th Anniversary Celebration of the Department of Automation, and now I am the **Chair** of CAA-SJTU Student Branch.
+I was nominated as the **Shanghai Jiao Tong University Annual Person of the Year** on behalf of School of Automation and Intelligent Sensing in 2025. I have twice received the **National Scholarship** (in 2022 and 2025), a prestigious award granted to the top **0.2%** of students nationwide, and the SJTU A-Grade Merit Scholarship (2020). Beyond academics, my contributions to the student community have been acknowledged through the Outstanding Student Cadre and Merit Student honors. I had served as the **Chair** of CAA-SJTU Student Branch from 2024 to 2026.
 
 My research focuses on developing efficient and reliable solutions for **Multi-Agent Systems (MAS)**. I have widely investigated cooperative and competitive tasks including encirclement control, formation control, navigation, three-party confrontation, and coverage control--by integrating **Deep Reinforcement Learning (DRL)** or traditional methods. I am particularly interested in addressing challenges in MAS like limited communication and agent safety by incorporating **Graph Neural Networks** and **Safe DRL** techniques. 
 
-Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by leveraging control-theoretic **Guide Policy**, and construct a rigorous mathematical framework that bridges reinforcement learning and control theory from a novel perspective.
+Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by leveraging control-theoretic **Guide Policy**, and construct a rigorous mathematical framework that bridges reinforcement learning and control theory from a novel perspective. Also, I have a strong interest in **Contibual Reinforcement Leanring** (CRL).
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # ☎️ Contact
 > 800 Dongchuan RD. Minhang District, 200240, Shanghai, China
 >
 > +86 18280193345
 >
-> Mail me: [[SJTU]](finley-gou3@sjtu.edu.cn) / [[QQ]](1132102843@qq.com)
+> Mail me: [[SJTU]](finley-gou3@sjtu.edu.cn) / [[QQ]](1132102843@qq.com) / [[KCL]](fandi.gou@kcl.ac.uk)
 >
 > WeChat: Finley-Gou3
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Our paper accepted by ***Neurocomputing***!
+- *2026.07*: &nbsp;🎙 Awarded the ***Most Thoughtful Award*** at the 2026 RL Summer School by **Richard Sutton**.
 - *2026.04*: &nbsp;🎉 Our paper accepted by ***IFAC World Congress 2026***! 
 - *2026.02*: &nbsp;🎉 Our paper accepted by ***Neural Networks(NN)***! 
 - *2025.12*: &nbsp;🎉 Awarded as the ***Shanghai Jiao Tong University Annual Person of the Year*** (nominee)!
