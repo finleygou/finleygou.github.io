@@ -20,7 +20,7 @@ I was nominated as the **Shanghai Jiao Tong University Annual Person of the Year
 
 My research focuses on developing efficient and reliable solutions for **Multi-Agent Systems (MAS)**. I have widely investigated cooperative and competitive tasks including encirclement control, formation control, navigation, three-party confrontation, and coverage control--by integrating **Deep Reinforcement Learning (DRL)** or traditional methods. I am particularly interested in addressing challenges in MAS like limited communication and agent safety by incorporating **Graph Neural Networks** and **Safe DRL** techniques. 
 
-Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by leveraging control-theoretic **Guide Policy**, and construct a rigorous mathematical framework that bridges reinforcement learning and control theory from a novel perspective. Also, I have a strong interest in **Contibual Reinforcement Leanring** (CRL).
+Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by leveraging control-theoretic **Guide Policy**, and construct a rigorous mathematical framework that bridges reinforcement learning and control theory from a novel perspective. Also, I have a strong interest in **Continual Reinforcement Leanring** (CRL).
 
 
 # ☎️ Contact
@@ -33,8 +33,10 @@ Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by 
 > WeChat: Finley-Gou3
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 Going to King's!!! A new journey begins~🤩😎💖
 - *2026.09*: &nbsp;🎉 Our paper accepted by ***Neurocomputing***!
 - *2026.07*: &nbsp;🎙 Awarded the ***Most Thoughtful Award*** at the 2026 RL Summer School by **Richard Sutton**.
+- *2026.05*: &nbsp;🎉 Receive a scholarship from ***China Scholarship Council***!
 - *2026.04*: &nbsp;🎉 Our paper accepted by ***IFAC World Congress 2026***! 
 - *2026.02*: &nbsp;🎉 Our paper accepted by ***Neural Networks(NN)***! 
 - *2025.12*: &nbsp;🎉 Awarded as the ***Shanghai Jiao Tong University Annual Person of the Year*** (nominee)!
@@ -48,7 +50,8 @@ Looking forward, I aim to enhance the **Sample Efficiency** of RL algorithms by 
 
 🏆 Honors and Awards
 ====================
-- Shanghai Jiao Tong University Annual Person of the Year (Nominee), Nov 2025
+- Awarded a scholarship from China Scholarship Council, May 2026.
+- Nominated as **Shanghai Jiao Tong University Annual Person of the Year**, Nov 2025
 - **National Scholarship**; **2×recipient**, Nov 2022 and Oct 2025
 - SJTU Outstanding Leadership Award; May 2025
 - SJTU Outstanding Student Cadre; Oct 2024
